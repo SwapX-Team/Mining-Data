@@ -6,13 +6,13 @@ SwapX will start mining at **2020-09-11 04:00:00 AM +UTC** with block number **1
 
 ## Cycle List
 
-| Cycle | Start Block | End Block | Reward Data |
-| :-: | - | - | - |
-| 1 | 10838279 | 10844797 | [CR_1](reports/CR_1) |
-| 2 |  |  |  |
-| 3 |  |  |  |
-| 4 |  |  |  |
-| 5 |  |  |  |
+| Cycle | Start Block | End Block | Reward Data | Tree Root |
+| :-: | - | - | - | - |
+| 1 | 10838279 | 10844797 | [CR_1](reports/CR_1) | 0xa59fd915dee94812ef0828e6494095df8ff1eece87ada1e85ae15a51c061c9d0 |
+| 2 |  |  |  |  |
+| 3 |  |  |  |  |
+| 4 |  |  |  |  |
+| 5 |  |  |  |  |
 
 
 
