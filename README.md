@@ -1,6 +1,8 @@
 # Mining Data Publicity 
 
-SwapX will start mining at **2020-09-11 04:00:00 AM +UTC** with block number **10838279**.
+SwapX started mining at **2020-09-11 04:00:00 AM +UTC** with block number **10838279**.
+
+`SWP-USDT` Pool started **5 times** mining at **2020-09-12 12:00:00 PM +UTC** with block number **10847007**.
 
 
 
@@ -9,8 +11,8 @@ SwapX will start mining at **2020-09-11 04:00:00 AM +UTC** with block number **1
 | Cycle | Start Block | End Block | Reward Data | Tree Root |
 | :-: | - | - | - | - |
 | 1 | 10838279 | 10844797 | [CR_1](reports/CR_1) | 0xa59fd915dee94812ef0828e6494095df8ff1eece87ada1e85ae15a51c061c9d0 |
-| 2 |  |  |  |  |
-| 3 |  |  |  |  |
+| 2 | 10844798 | 10851333 | [CR_2](reports/CR_2) | 0x3ddce358ecd6160fbb30a16230100be4d884e839ba4cde64129b2c19f2a892f2 |
+| 3 | 10851334 |  |  |  |
 | 4 |  |  |  |  |
 | 5 |  |  |  |  |
 
