@@ -14,7 +14,7 @@ SwapX started mining at **2020-09-11 04:00:00 AM +UTC** with block number **1083
 | 2 | 10844798 | 10851333 | [CR_2](reports/CR_2) | 0x3ddce358ecd6160fbb30a16230100be4d884e839ba4cde64129b2c19f2a892f2 |
 | 3 | 10851334 | 10857855 | [CR_3](reports/CR_3) | 0x2611829ae2e45b60c4adc0299b07f45237ac82b17522c5786da78001b9616e73 |
 | 4 | 10857856 | 10864331 | [CR_4](reports/CR_4) | 0x51ba49222facb712d52e1b14b52475eb5f8a9345f7fc0aa7fa1f1eb898ffeb91 |
-| 5 | 10864332 |  |  |  |
+| 5 | 10864332 | 10870869 | [CR_5](reports/CR_5) | 0xeb94b057b2a041f0803e9b654d90abd3c75285ff61cb0d5c86c8941126a9d721 |
 
 
 
